@@ -1,0 +1,13 @@
+attribute:
+  src: /doc/test
+  class: 'embed-responsive-item'
+  style: 'height:600px'
+wrap:
+  enabled: true
+  element:
+    type: div
+    attribute:
+      class: 'embed-responsive embed-responsive-4by3'
+reload:
+  enabled: true
+  seconds: 10
