@@ -2,6 +2,7 @@ attribute:
   src: /doc/test
   class: 'embed-responsive-item'
   style: 'height:600px'
+  name: plugin_element_iframe
 wrap:
   enabled: true
   element:
