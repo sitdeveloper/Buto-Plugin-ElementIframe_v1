@@ -8,7 +8,7 @@ Widget to render iframe element with auto refresh.
 ```
 type: widget
 data:
-  plugin: element/iframe
+  plugin: element/iframe_v1
   method: iframe
   data:
     attribute:
